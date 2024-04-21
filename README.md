@@ -68,5 +68,5 @@ client = Client(host='http://your-server-url:port')
 This project is licensed under the MIT License.
 
 #### Acknowledgements
-Ollama Python Package
-Meta LLaMA 3 OSS LLM
+* Ollama Python Package
+* Meta LLaMA 3 OSS LLM
